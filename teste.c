@@ -26,7 +26,7 @@
 
 int main(int argc, char **argv)
 {
-	printf("teste");
+	printf("teste\n");
 	return 0;
 }
 
