@@ -2,7 +2,7 @@
 
 Objetivo é aprender como usa o Git e GitHub
 
-![cubo] (/logo.png)
+![cubo](/logo.png)
 
 
 amostras de [site](https://guides.github.com/features/mastering-markdown/)
