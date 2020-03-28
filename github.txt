@@ -1,2 +1,3 @@
+novo texto, apos fetch
 criei este arquivo no github para ver como funciona o sincronismo...
 testando ssh
