@@ -1,0 +1,49 @@
+[33mcommit c4740e843fc32d413ff14030a845bd7a22f70866[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ochicao <ochicao@ig.com.br>
+Date:   Sat Mar 28 14:33:29 2020 -0300
+
+    teste entre contas
+
+[33mcommit b49d68274fed9837afbd32dbc6d5124301f623d9[m
+Author: ochicao <ochicao@ig.com.br>
+Date:   Sat Mar 28 11:50:08 2020 -0300
+
+    teste de commit e push
+
+[33mcommit e54ba878b108bc1b5660f485a3628041db93ad39[m
+Author: ochicao <ochicao@ig.com.br>
+Date:   Fri Mar 27 21:17:07 2020 -0300
+
+    alteração e ampliaçao de escopo
+
+[33mcommit 0a34b54cf5b66fb2b22eb1fdc68a828576df4233[m
+Author: Francisco Gomes <ochicao@ig.com.br>
+Date:   Fri Mar 27 12:03:01 2020 -0300
+
+    Create github.txt
+    
+    criado para teste de sicronismo com baasae remota
+
+[33mcommit 157e37368b01cb1b261a7a39ae6a3ad7cb25dff1[m
+Author: Francisco Gomes <ochicao@ig.com.br>
+Date:   Fri Mar 27 11:59:50 2020 -0300
+
+    Update README.md
+
+[33mcommit 97fd08e500b57735d9f6a06b16723c7c72fb08df[m
+Author: ochicao <ochicao@ig.com.br>
+Date:   Fri Mar 27 11:57:05 2020 -0300
+
+    atualiza
+
+[33mcommit bf2d5f4d446bdaddb5562403d1326135c13fd457[m
+Author: ochicao <ochicao@ig.com.br>
+Date:   Fri Mar 27 11:44:54 2020 -0300
+
+    incluido README.md
+
+[33mcommit 2aa0493bceba774ece8829a2d88ec791c0eff8dd[m
+Author: ochicao <ochicao@ig.com.br>
+Date:   Fri Mar 27 02:57:29 2020 -0300
+
+    realizando teste do GIT, com o arquivo fonte teste.c

@@ -1,4 +1,4 @@
-/*
+/*alterando para teste
  * teste.c
  * 
  * Copyright 2020 Francisco <chico@alien>

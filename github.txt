@@ -1,4 +1,5 @@
 outro texto
+novo texto, apos fetch
 alterando
 criei este arquivo no github para ver como funciona o sincronismo...
 testando ssh
